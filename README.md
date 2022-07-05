@@ -1,10 +1,6 @@
 Exercícios da aula de map, filter e reduce ministrado pela professora [stebsnusch](https://github.com/stebsnusch) da plataforma DIO.
 
-# Map, Filter e Reduce
-
-Este repositório contém a atividade prática do Curso "Map, Filter e Reduce", que faz parte do Basecamp de Javascript que minstrei pela [Digital Innovation One](https://digitalinnovation.one/).
-
-## Atividades
+# Atividades
 
 ### Map
 
